@@ -1,0 +1,5 @@
+{
+  "name": "Network MST Cost Calculator",
+  "description": "Design an internet network with minimal cable cost using Kruskal's and Prim's algorithms, based on user-defined locations and distances.",
+  "requestFramePermissions": []
+}
